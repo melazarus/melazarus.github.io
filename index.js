@@ -88,7 +88,7 @@
 
     /** @const */
     var IS_HIDPI = window.devicePixelRatio > 1;
-
+    IS_HIDPI = false;
     /** @const */
     var IS_IOS = /iPad|iPhone|iPod/.test(window.navigator.platform);
 
