@@ -1,0 +1,199 @@
+{
+    "1x": [
+        {
+            "name":"restart",
+            "file_name":"restart.png",
+            "x":2,
+            "y":2,
+            "width":36,
+            "height":32
+        },
+        {
+            "name":"cloud",
+            "file_name":"cloud.png",
+            "x":86,
+            "y":2,
+            "width":46,
+            "height":14
+        },
+        {
+            "name":"bird",
+            "file_name":"bird.png",
+            "x":134,
+            "y":2,
+            "width":92,
+            "height":40
+        },
+        {
+            "name":"obstacle_1",
+            "file_name":"egg_white.png",
+            "x":228,
+            "y":2,
+            "width":17,
+            "height":35,
+            "v-align": "bottom"
+        },
+        {
+            "name":"obstacle_2",
+            "file_name":"2-silos.png",
+            "x":"+",
+            "y":2,
+            "width":34,
+            "height":35,
+            "v-align": "bottom"
+        },
+        {
+            "name":"obstacle_3",
+            "file_name":"3-silos.png",
+            "x":"+",
+            "y":2,
+            "width":51,
+            "height":35,
+            "v-align": "bottom"
+        },
+        {
+            "name":"obstacle_4",
+            "file_name":"egg_brown.png",
+            "x":332,
+            "y":2,
+            "width":25,
+            "height":50,
+            "v-align": "bottom"
+        },
+        {
+            "name":"obstacle_5",
+            "file_name":"coop-mini.png",
+            "x":"+",
+            "y":2,
+            "width":50,
+            "height":"*",
+            "v-align": "bottom"
+        },
+        {
+            "name":"obstacle_6",
+            "file_name":"coop.png",
+            "x":"+",
+            "y":2,
+            "width":75,
+            "height":"*",
+            "v-align": "bottom"
+        },
+        {
+            "name":"moons",
+            "file_name":"moons.png",
+            "x":484,
+            "y":2,
+            "width":160,
+            "height":40,
+            "v-align": "bottom"
+        },
+        {
+            "name":"stars",
+            "file_name":"stars.png",
+            "x":645,
+            "y":2,
+            "width":9,
+            "height":27,
+            "v-align": "bottom"
+        },
+        {
+            "name":"font",
+            "file_name":"font.png",
+            "x":655,
+            "y":2,
+            "width":191,
+            "height":24,
+            "v-align": "bottom"
+        },
+        {
+            "name":"kip-jump-noshade",
+            "file_name":"kip-jump-noshade.png",
+            "x":848,
+            "y":2,
+            "width":44,
+            "height":47,
+            "v-align": "bottom",
+            "align": "center"
+        },
+        {
+            "name":"kip-jump",
+            "file_name":"kip-jump.png",
+            "x":"+",
+            "y":2,
+            "width":"*",
+            "height":"*",
+            "v-align": "bottom",
+            "align": "center"
+        },
+        {
+            "name":"kip-run-a",
+            "file_name":"kip-run-a.png",
+            "x":"+",
+            "y":2,
+            "width":"*",
+            "height":"*",
+            "v-align": "bottom",
+            "align": "center"
+        },
+        {
+            "name":"kip-run-b",
+            "file_name":"kip-run-b.png",
+            "x":"+",
+            "y":2,
+            "width":"*",
+            "height":"*",
+            "v-align": "bottom",
+            "align": "center"
+        },
+        {
+            "name":"kip-dead",
+            "file_name":"kip-dead.png",
+            "x":"+",
+            "y":2,
+            "width":"*",
+            "height":"*",
+            "v-align": "bottom",
+            "align": "center"
+        },
+        {
+            "name":"kip-dead",
+            "file_name":"kip-dead.png",
+            "x":"+",
+            "y":2,
+            "width":"*",
+            "height":"*",
+            "v-align": "bottom",
+            "align": "center"
+        },
+        {
+            "name":"kip-duck",
+            "file_name":"kip-duck.png",
+            "x":"+",
+            "y":19,
+            "width":59,
+            "height":30,
+            "v-align": "bottom",
+            "align": "center"
+        },
+        {
+            "name":"kip-duck",
+            "file_name":"kip-duck.png",
+            "x":"+",
+            "y":"*",
+            "width":"*",
+            "height":"*",
+            "v-align": "bottom",
+            "align": "center"
+        },
+        {
+            "name":"grass",
+            "file_name":"grass.png",
+            "x":2,
+            "y":54,
+            "width":1200,
+            "height":12
+        }
+        
+
+    ]
+}
